@@ -1,5 +1,5 @@
 ﻿.ax_default {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -23,14 +23,14 @@
   color:#FFFFFF;
 }
 ._一级标题 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 ._二级标题 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:24px;
@@ -39,27 +39,27 @@
 ._表格 {
 }
 ._三级标题 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
 ._四级标题 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
 ._五级标题 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
 ._六级标题 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:10px;
@@ -112,7 +112,7 @@
 .box_2 {
 }
 ._形状 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -137,7 +137,7 @@
 .form_disabled {
 }
 .example_script {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:28px;
@@ -152,7 +152,7 @@
 .button {
 }
 .heading_1 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:32px;
@@ -166,7 +166,7 @@
   text-align:left;
 }
 ._形状2 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -184,7 +184,7 @@
 .connector {
 }
 ._28号字_页面备注信息及列表的表头说明文字__） {
-  font-family:'PingFang SC ', 'PingFang SC', sans-serif;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:14px;
@@ -198,7 +198,7 @@
 .table {
 }
 .iconfont {
-  font-family:'iconfont ', 'iconfont', sans-serif;
+  font-family:'iconfont', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -207,14 +207,14 @@
 .box_21 {
 }
 .heading_11 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 .heading_2 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
   font-size:24px;
@@ -223,14 +223,14 @@
 ._默认样式 {
 }
 .heading_21 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
 .shape1 {
-  font-family:'Arial Normal', 'Arial', sans-serif;
+  font-family:'ArialMT', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -293,7 +293,7 @@
   text-align:left;
 }
 .basicbutton {
-  font-family:'Roboto Medium', 'Roboto', sans-serif;
+  font-family:'Roboto-Medium', 'Roboto Medium', 'Roboto', sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:16px;
@@ -301,7 +301,7 @@
   text-align:center;
 }
 .basicbutton-outline {
-  font-family:'Roboto Medium', 'Roboto', sans-serif;
+  font-family:'Roboto-Medium', 'Roboto Medium', 'Roboto', sans-serif;
   font-weight:500;
   font-style:normal;
   font-size:16px;
@@ -313,7 +313,7 @@
   color:#000000;
 }
 ._形状4 {
-  font-family:'Arial Negreta', 'Arial Normal', 'Arial', sans-serif;
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
   color:#FF0066;
